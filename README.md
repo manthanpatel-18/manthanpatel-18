@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hello, I'm Manthan Patel!</h1>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="150" alt="profile logo">
+  <img src="![WhatsApp Image 2024-08-15 at 12 07 46 AM - Copy](https://github.com/user-attachments/assets/0c238e1f-4698-4f13-8c3a-b08838d878ef)
+" width="150" alt="profile logo">
 </p>
 
 🎯 **Aspiring Data Scientist | AI & ML Enthusiast | Data Analyst | Python Developer**  
