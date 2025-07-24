@@ -33,6 +33,11 @@ Passionate about leveraging data science and machine learning to solve real-worl
 A full-stack AI-powered web app for cricket management, featuring match analysis, player stats, and prediction models.  
 🔗 [GitHub Repository](https://github.com/manthanpatel-18/ai-cricket-management-system)
 
+#### **IPL Score Prediction using Machine Learning**
+*(Jul 2025, Personal Project)*<br>
+A beginner-friendly ML project that predicts the final score of an IPL innings using Linear Regression, trained on match data. Built with Python, Pandas, and Scikit-learn.
+🔗  [GitHub Repository](https://github.com/manthanpatel-18/ipl-score-prediction.git)
+
 ---
 
 ### 📜 Certifications
