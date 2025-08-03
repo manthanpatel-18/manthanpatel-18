@@ -28,15 +28,30 @@ Passionate about leveraging data science and machine learning to solve real-worl
 ---
 
 ### 🚀 Projects
+
 #### **AI-Driven Sports Management System**
 *(Feb 2025 – Apr 2025, ITM SLS Baroda University)*  
 A full-stack AI-powered web app for cricket management, featuring match analysis, player stats, and prediction models.  
 🔗 [GitHub Repository](https://github.com/manthanpatel-18/ai-cricket-management-system)
 
 #### **IPL Score Prediction using Machine Learning**
-*(Jul 2025, Personal Project)*<br>
-A beginner-friendly ML project that predicts the final score of an IPL innings using Linear Regression, trained on match data. Built with Python, Pandas, and Scikit-learn.
-🔗  [GitHub Repository](https://github.com/manthanpatel-18/ipl-score-prediction.git)
+*(Jul 2025, Personal Project)*  
+A beginner-friendly ML project that predicts the final score of an IPL innings using Linear Regression, trained on match data. Built with Python, Pandas, and Scikit-learn.  
+🔗 [GitHub Repository](https://github.com/manthanpatel-18/ipl-score-prediction.git)
+
+#### **Awesome Chocolates Performance Dashboard**
+*(Jul 2025, Power BI Project)*  
+Developed an interactive Power BI dashboard to visualize sales performance for Awesome Chocolates, highlighting KPIs such as profit %, shipment trends, and sales across categories and regions.  
+✅ $34M in sales, 2M boxes sold, 6K shipments, 60.3% profit margin  
+📊 Includes MoM analysis, top performers, and weight-based shipment insights  
+🔗 [GitHub Repository](https://github.com/manthanpatel-18/sales-performance-dashboard-pbi)
+
+#### **Real-Time Road Lane Detection using OpenCV**
+*(Aug 2025, Computer Vision Project)*  
+Built a basic ADAS simulation that detects lane lines in real-time using Python and OpenCV. Applied classical vision techniques like grayscale conversion, edge detection, masking, and Hough Transform.  
+🎯 Processes dashcam footage and overlays detected lanes on video  
+🔧 Tools: Python, OpenCV, NumPy  
+🔗 [GitHub Repository](https://github.com/manthanpatel-18/road-lane-detection)
 
 ---
 
