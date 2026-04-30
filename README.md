@@ -5,7 +5,7 @@
 
 ---
 
-I work with data to build things that actually matter — whether that's a marketing dashboard that saves hours of manual reporting, an LLM app that lets non-technical users query databases in plain English, or an ML pipeline that turns raw numbers into real decisions. My background is in Computer Science, and I've spent the last year getting hands-on across analytics, data science, and AI engineering.
+I work with data to build things that actually matter, whether that's a marketing dashboard that saves hours of manual reporting, an LLM app that lets non-technical users query databases in plain English, or an ML pipeline that turns raw numbers into real decisions. My background is in Computer Science, and I've spent the last year getting hands-on across analytics, data science, and AI engineering.
 
 Currently open to **Data Analyst**, **Data Scientist**, and **AI/ML Developer** roles.
 
@@ -82,7 +82,7 @@ Currently open to **Data Analyst**, **Data Scientist**, and **AI/ML Developer** 
 ### 📊 E-Commerce Customer Segmentation Dashboard
 `Python` `Streamlit` `Scikit-learn` `Plotly` `Pandas` `K-Means`
 - Engineered an end-to-end segmentation pipeline analyzing 6,000 customers across 3 years of transaction data ($14.57M revenue), applying RFM scoring and K-Means clustering to identify 8 behavioral segments
-- Built complete RFM feature engineering including recency, frequency, monetary scoring, and 3-year CLV estimation — revealing that the top 20% of customers drive 65.4% of total revenue
+- Built complete RFM feature engineering including recency, frequency, monetary scoring, and 3-year CLV estimation, revealing that the top 20% of customers drive 65.4% of total revenue
 - Conducted cohort retention analysis across 36 acquisition cohorts, identifying 44% average Month-1 retention as the primary revenue leakage point
 - Deployed interactive 4-tab Streamlit dashboard with real-time filters, Pareto analysis, and cohort retention heatmap
 
